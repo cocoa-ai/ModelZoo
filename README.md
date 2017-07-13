@@ -18,4 +18,6 @@ Welcome to the Model Zoo! This is a central GitHub repository for sharing
 
 ## Natural Language Processing 
 - Gender classification: [Reference](http://nlpforhackers.io/introduction-machine-learning/),
-[CoreML model](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel)
+[CoreML model](https://github.com/cocoa-ai/NamesCoreMLDemo/raw/master/Names/Resources/NamesDT.mlmodel)
+- Sentiment polarity analysis: [Reference](https://github.com/cocoa-ai/SentimentCoreMLDemo),
+[CoreML model](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel)
