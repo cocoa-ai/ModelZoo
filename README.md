@@ -15,6 +15,8 @@ Welcome to the Model Zoo! This is a central GitHub repository for sharing
 [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
 - Flickr Style: [Reference](https://gist.github.com/sergeyk/034c6ac3865563b69e60),
 [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
+- Visual sentiment prediction: [Reference](https://github.com/imatge-upc/sentiment-2017-imavis),
+[CoreML model](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
 
 ## Natural Language Processing 
 - Gender classification: [Reference](http://nlpforhackers.io/introduction-machine-learning/),
