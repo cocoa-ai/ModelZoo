@@ -17,6 +17,8 @@ Welcome to the Model Zoo! This is a central GitHub repository for sharing
 [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
 - Visual sentiment prediction: [Reference](https://github.com/imatge-upc/sentiment-2017-imavis),
 [CoreML model](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
+- Nicolas Cage or Not: [Reference](http://declarationofindependencethief.com/),
+[CoreML model](https://s3.amazonaws.com/despiteallmyrage/MegaNic50.mlmodel)
 
 ## Natural Language Processing 
 - Gender classification: [Reference](http://nlpforhackers.io/introduction-machine-learning/),
